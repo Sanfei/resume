@@ -15,8 +15,8 @@
  - 刘三飞/男/1985 
  - 本科/厦门大学化学工程系 
  - 工作年限：10年
- - 微博：[@JobDeer](http://weibo.com/jobdeer) 
- - 技术博客：http://blog.github.io 
+ - 微博：[@SanfeiPro](http://weibo.com/sanfeipro) 
+ - 技术博客：https://www.cnblogs.com/sanfei/
  - Github：http://github.com/sanfei 
 
  - 期望职位：PHP高级程序员，应用架构师

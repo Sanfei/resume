@@ -5,7 +5,7 @@
 # 联系方式
 
 - 手机：13928484530 
-- Email：liusanfei@xmu.edu.cn
+- Email：liusanfei@hotmail.com
 - QQ/微信号：240110099 
 
 ---
@@ -15,7 +15,6 @@
  - 刘三飞/男/1985 
  - 本科/厦门大学化学工程系 
  - 工作年限：10年
- - 微博：[@SanfeiPro](http://weibo.com/sanfeipro) 
  - 技术博客：https://www.cnblogs.com/sanfei/
  - Github：http://github.com/sanfei 
 

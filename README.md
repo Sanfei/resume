@@ -13,7 +13,7 @@
 # 个人信息
 
  - 刘三飞/男/1985 
- - 本科/厦门大学化学工程系 
+ - 本科/福建省厦门大学化学工程系 
  - 工作年限：10年
  - 技术博客：https://www.cnblogs.com/sanfei/
  - Github：http://github.com/sanfei 

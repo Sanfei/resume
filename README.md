@@ -68,6 +68,18 @@ $ cat 刘三飞简历.txt
 
 # 项目经历
 
+2018/01 - 2019/05 深圳城轨IT运维平台
+
+- 软件环境：Java/PHP, Vue
+- 硬件环境：OpenStack, KVM
+- 开发工具：Eclipse, Maven, phpMyAdmin
+- 责任描述：前端开发
+- 项目简介：
+  江苏某企业内部办公系统，包含PHP OA主程序，Java工作流引擎，消息队列，自动提醒服务。
+  OA主程序采用PHP实现；
+  工作流引擎采用封装的Activiti 5，通过REST API调用；
+  推送服务通过ActiveMQ消息队列与主程序交互。
+
 2017/03 ~ 2017/10 江苏亨鑫科技OA管理系统
 
 - 软件环境：Apache/PHP/MySQL, Activiti 5, ActiveMQ
@@ -96,6 +108,7 @@ $ cat 刘三飞简历.txt
 - 项目简介：
   电子商务交易网站实现了商品管理、商品分类管理、在线交易平台对接、用户访问行为分析等功能。
   这是一个PHP项目，基于Open Cart 2.0的二次开发。
+  前端界面采用响应式设计，使用了Bootstrap/jQuery/React等框架。
 
 2015/03 ~ 2016/01 MakerOnly电子商务系统
 

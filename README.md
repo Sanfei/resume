@@ -33,14 +33,12 @@ $ cat 刘三飞简历.txt
 
 # 技能清单
 
-- Web开发：PHP/Hack/Node
-- Web框架：ThinkPHP/Yaf/Yii/Laravel/LazyPHP
-- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
-- 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
-- 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
-- 单元测试：PHPUnit/SimpleTest/Qunit
-- 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
+- Web开发：HTML/CSS/JavaScript, PHP/C#/Java
+- Web框架：ThinkPHP/Spring MVC/ASP.NET MVC
+- 前端框架：Bootstrap/jQuery/Angular/Vue/React
+- 数据库相关：MySQL/Oracle/SQL Server/Redis/MongoDB
+- 版本管理、文档和自动化部署工具：Svn/Git/Je
+- 设计、开发工具：Eclipse/Visual Studio/WebStorm
 
 ---
 
@@ -69,26 +67,6 @@ $ cat 刘三飞简历.txt
 ---
 
 # 项目经历
-
-2017/09 - 2017/12 日本富比奇堡公司VPN服务系统
-
-- 软件环境：PPTPD, FreeRADIUS, PHP, MySQL, OpenCart, CentOS
-- 硬件环境：Linode/DigitalOcean/Vultr VPS
-- 开发工具：Eclipse for PHP, Sublime, Navicat
-- 项目简介：
-系统基于Linux的PPTPD提供VPN服务；
-使用开源的FreeRADIUS对用户权限认证；
-用户数据保存在MySQL数据库中；
-使用OpenCart系统实现用户注册、购买和续费功能。
-
-2017/08 - 2017/11 OddsPark竞马协会数据分析系统
-
-- 软件环境：WinForm, PHP, jQuery, Highcharts
-- 开发工具： Visual Studio 2012, MinGW-MSYS/curl/grep/awk
-- 项目简介：
-对OddsPark竞马协会历年数据抓取和整理；
-将数据结果图表化展示；
-通过数据模型对未来比赛结果进行预测。
 
 2017/03 - 2017/10 江苏亨鑫科技OA管理系统
 

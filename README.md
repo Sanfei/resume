@@ -35,7 +35,7 @@ $ cat 刘三飞简历.txt
 
 - Web开发：HTML/CSS/JavaScript, PHP/C#/Java
 - Web框架：ThinkPHP/Spring MVC/ASP.NET MVC
-- 前端框架：Bootstrap/jQuery/Angular/Vue/React
+- 前端框架：Bootstrap/jQuery, Angular/Vue/React
 - 数据库相关：MySQL/Oracle/SQL Server/Redis/MongoDB
 - 版本管理、文档和自动化部署工具：Svn/Git/Jenkins
 - 设计、开发工具：Eclipse/Visual Studio/WebStorm

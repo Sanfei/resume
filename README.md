@@ -54,9 +54,9 @@ C#开发
 - 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
 - 数据库相关：MySQL/PgSQL/PDO/SQLite
 - 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
-- 单元测试：PHPUnit/SimpleTest/Qunit
 
 ---
 
 # 致谢
+
 感谢您花时间阅读我的简历，期待能有机会和您共事。

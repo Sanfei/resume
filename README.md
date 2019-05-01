@@ -55,7 +55,7 @@ C#开发
 
 ---
 
-# 项目经验
+# 项目经历
 
 2017/09 - 2017/12	日本富比奇堡公司VPN服务系统
 	软件环境：PPTPD, FreeRADIUS, PHP, MySQL, OpenCart, CentOS

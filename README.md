@@ -155,22 +155,12 @@ Drupal具有高度的灵活性和扩展性，包括美国政府官网都使用�
  包含产品介绍、解决方案、成功案例、公司新闻、企业文化等模块，“TQ洽谈通”的在线客服IM系统。 
  网站经过多次改版，为保留原有内容采用了新旧多种技术，并实现了中文、英文多语言版本。
 
-
 ---
 
 # 证书
 
-- 2013/05	全国计算机软件技术资格与水平考试 中级证书 软件设计师
-
----
-
-# 技能清单
-
-- Web开发：PHP/Hack/Node
-- Web框架：ThinkPHP/Yii/Laravel
-- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
-- 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
+- 2013/05 全国计算机软件技术资格与水平考试 中级证书 软件设计师
+- 2006/01 大学英语等级考试 四级
 
 ---
 

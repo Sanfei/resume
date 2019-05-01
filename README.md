@@ -39,11 +39,11 @@ $ cat 刘三飞简历.txt
 
 ## 深圳赛海蓝科技有限公司 （ 2013年3月 ~ 2016年12月 ）
 
-担任Java/PHP开发工程师。
+担任Java/PHP开发工程师。工作主要是Java EE和PHP Web开发。
 
 ## 武汉弘智科技有限公司 （ 2010年3月 ~ 2012年8月 ）
 
-担任C#开发开发工程师
+担任C#开发开发工程师。工作主要WinForms和ASP.NET的开发。
 
 ---
 
@@ -110,10 +110,8 @@ Drupal具有高度的灵活性和扩展性，包括美国政府官网都使用�
 - 软件环境：ASP.NET MVC, SQL Server 2012, jQuery, Bootstrap
 - 硬件环境：万网/美橙/西部数据托管主机
 - 开发工具：Visual Studio 2010, SQL Server Management Studio
-
 - 责任描述：参与网站的主体架构设计；
 利用HTMLAgilityPack抓取其他站点信息填充本站。
-
 - 项目简介：
 MakerOnly是一个B2B类型的电子商务系统。
 买家和卖家都可以免费注册，免费发布求购和销售信息。
@@ -125,12 +123,10 @@ MakerOnly是一个B2B类型的电子商务系统。
 - 软件环境：Windows Server 2012, Oracle 11g, SUSE Linux Enterprise 11
 - 硬件环境：IBM System x3650/3750 M4 机架优化式服务器, Stratus ftServer System 容错服务器, Storage DS5020 冗余阵列
 - 开发工具：Visual Studio 2010, PL/SQL Developer 9.0, CentOS 6, SVN 1.6
-
 - 责任描述：
-1. 负责其中船舶信息服务、堆场信息服务、码头信息服务、运营简报信息服务四个模块的设计和开发。 
-2. 执笔前期的投标文件。撰写部分产品文档。 
-3. 客户沟通，处理客户反馈。
-
+负责其中船舶信息服务、堆场信息服务、码头信息服务、运营简报信息服务四个模块的设计和开发。 
+执笔前期的投标文件。撰写部分产品文档。 
+客户沟通，处理客户反馈。
 - 项目简介：
 非洲某国第二大港口码头计算机管理系统。 
 本系统由生产管理系统和客户服务系统两部分构成。 
@@ -145,7 +141,6 @@ MakerOnly是一个B2B类型的电子商务系统。
 - 软件环境：Windows 7, ASP.NET, Embedded Linux, MySQL 5.6, SQLite3
 - 硬件环境：上位机PC, 下位机ARM9, CAN bus总线, Zigbee无线
 - 开发工具：Keil μVision4, Protel 99SE, Visual Studio 2010, WebStorm, Naicat
-
 - 责任描述：负责其中上位机软件的研发； 
 负责撰写软件文档； 
 负责向中国版权保护中心申请计算机软件著作权。
@@ -163,7 +158,6 @@ SyBlusea交通智能照明控制系统是由现场数据总线构成的分布式
 - 软件环境：Windows SBS, MySQL 5.6, Windows 7+, Andorid 4.0+, iOS 5+
 - 硬件环境：Intronis集群系统
 - 开发工具：Visual Studio 2010, Xcode 4.5, Eclipse 3.7, SVN 1.6
-
 - 责任描述：
 负责其中服务器端ASP.NET处理HTTP请求的部分；
 负责iOS客户端的编码、测试。

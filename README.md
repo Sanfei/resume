@@ -70,20 +70,17 @@ $ cat 刘三飞简历.txt
 
 2018/01 - 2019/05 深圳城轨IT运维平台
 
-- 软件环境：Java/PHP, Vue
 - 硬件环境：OpenStack, KVM
-- 开发工具：Eclipse, Maven, phpMyAdmin
 - 责任描述：前端开发
 - 项目简介：
-1. 受控端：裸机即可，无需安装客户端；
-2. 主控端：
-支持 Ansible/Fabric, Saltstack/Func 等平台；
-通过 Ansible 等实现远程 shell 命令和脚本运行；
-通过 Linux 系统的 history 工作机制查看、跟踪服务器上报的审计信息；
-通过 RRDTool 做数据报表展示；
-采用基于 HBASE 的 opentsdb 存储任意时间段的数据
-3. 服务器端：Golang 编写的 Restful API；MySQL数据库
-4. 前端：JavaScript、Vue、D3.js
+  受控端裸机即可，无需安装客户端；
+  主控端支持 Ansible/Fabric, Saltstack/Func 等平台；
+  通过 Ansible 等实现远程 shell 命令和脚本运行；
+  通过 Linux 系统的 history 工作机制查看、跟踪服务器上报的审计信息；
+  通过 RRDTool 做数据报表展示；
+  采用基于 HBASE 的 opentsdb 存储任意时间段的数据
+  服务器端 Golang 编写的 Restful API；MySQL数据库
+  前端 avaScript、Vue、D3.js
 
 2017/03 ~ 2017/10 江苏亨鑫科技OA管理系统
 
